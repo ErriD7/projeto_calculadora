@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/caios/Desktop/projeto_calculadora_clean/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/caios/Desktop/projeto_calculadora_clean/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadora-refatorada 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'calculadora-refatorada 1.0-SNAPSHOT API'
+calculadora
+C:\Users\caios\Desktop\projeto_calculadora_clean\src\main\java = 1793483649855
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\allclasses-index.html = 1793483711423
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\allpackages-index.html = 1793483711432
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\element-list = 1793483711354
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\help-doc.html = 1793483711483
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\index-all.html = 1793483711472
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\index.html = 1793483711475
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\jquery-ui.overrides.css = 1793483711518
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\member-search-index.js = 1793483711459
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\module-search-index.js = 1793483711451
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\overview-tree.html = 1793483711404
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\package-search-index.js = 1793483711454
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\script.js = 1793483711488
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\search.js = 1793483711493
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\stylesheet.css = 1793483711487
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\tag-search-index.js = 1793483711461
+C:\Users\caios\Desktop\projeto_calculadora_clean\target\reports\apidocs\type-search-index.js = 1793483711456
